@@ -1,0 +1,18 @@
+.content1 img {
+    float: left;
+    background-repeat: none;
+}
+
+.content1 {
+    background-color: greenyellow;
+}
+
+.content1 img {
+    width: 490px;
+    height: 401px;
+}
+
+.content1 .btn {
+    width: 100px;
+    height: 30px;
+}
