@@ -1,0 +1,9 @@
+.content2{
+	width: 1000px;
+	height: 200px;
+	background-repeat: no-repeat;
+}
+.content2 img{
+	float: right;
+	padding: 5px
+}
