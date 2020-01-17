@@ -1,0 +1,36 @@
+
+.footer .icon .float{
+	margin-left: 500px;
+	margin-bottom: 0px;
+}
+.footer .icon .float .tw{
+	list-style: none;
+	margin-right: 20px;
+	text-decoration: none;
+	color: black;
+	display: inline;
+}
+.footer .icon .float .fb{
+	list-style: none;
+	margin-right: 20px;
+	text-decoration: none;
+	display: inline;
+	color: black;
+}
+.footer .icon .float .ig{
+	list-style: none;
+	margin-left: 4px;
+	text-decoration: none;
+	display: inline;
+}
+.footer .icon .float .chat{
+	list-style: none;
+	margin-left: 20px;
+	text-decoration: none;
+	display: inline;
+}
+
+.copy{
+	margin-top: 0px;
+	margin-left: 415px;
+}
