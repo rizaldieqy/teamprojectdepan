@@ -5,12 +5,10 @@
 }
 
 .header p i {
-    background;
     width : 1300px;
     height: 100px;
     margin-top: -100px;
     text-align: right;
-    button style= font-size:24px;
     margin-bottom: 300px;
     color: white;
 }
@@ -33,4 +31,22 @@
 .header button {
 	margin-top: 10px;
 	margin-left: 630px;
+}
+.content1 img {
+    float: left;
+    background-repeat: none;
+}
+
+.content1 {
+    background-color: cyan;
+}
+
+.content1 img {
+    width: 490px;
+    height: 401px;
+}
+
+.content1 .btn {
+    width: 100px;
+    height: 30px;
 }
