@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
     background-image: url("img/gambar1.png");
     height: 1000px;
@@ -49,4 +50,14 @@
 .content1 .btn {
     width: 100px;
     height: 30px;
+=======
+.content2{
+	width: 1000px;
+	height: 200px;
+	background-repeat: no-repeat;
+}
+.content2 img{
+	float: right;
+	padding: 5px
+>>>>>>> purnama
 }
